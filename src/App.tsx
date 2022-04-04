@@ -1,4 +1,3 @@
-import React from 'react';
 import Headers from './Header';
 
 let renderCount = 0;
